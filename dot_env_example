@@ -1,0 +1,4 @@
+TELEGRAM_TOKEN=<your-telegram-bot-token>
+REDIS_HOST=<redis host>
+REDIS_PORT=<redis port>
+CBR_URL=https://www.cbr.ru/scripts/XML_daily.asp
